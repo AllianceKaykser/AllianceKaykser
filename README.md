@@ -1,35 +1,48 @@
-Habilidades y tecnologías:
+AllianceKaykser
 
-Lenguajes de programación: HTML5, CSS3, JavaScript, PHP, Python
-Frameworks y bibliotecas: React, Angular, Node.js, Express, Django
-Bases de datos: MySQL, MongoDB, PostgreSQL
-Control de versiones: Git, GitHub
-Herramientas de desarrollo: Webpack, Gulp, Babel, npm
-Diseño responsivo y accesibilidad web
-Metodologías ágiles: Scrum, Kanban
-Proyectos personales:
+¡Hola! Soy AllianceKaykser, estudiante de Desarrollo de Aplicaciones Web apasionado por la tecnología y la programación. Me encanta aprender nuevas habilidades y contribuir a proyectos de código abierto.
 
-[UsaAlumneNota]: Aplicación web de red social para compartir recursos educativos, desarrollada con React y Node.js. (Enlace al repositorio en GitHub)
-[Floyd]: Plataforma de comercio electrónico con sistema de recomendación basado en inteligencia artificial, implementada con Django y PostgreSQL. (Enlace al repositorio en GitHub)
-Experiencia laboral:
+Habilidades y tecnologías
+HTML5
+CSS3
+JavaScript
+React
+Angular
+Node.js
+Express
+Django
+MySQL
+MongoDB
+PostgreSQL
+Git
+GitHub
 
-[Empresa de mi padre xddddd]: Desarrollador web junior, colaborando en el desarrollo de aplicaciones web y en la optimización de la experiencia del usuario.
-Educación:
+Proyectos personales
+UsaAlumneNota - Aplicación web de red social para compartir recursos educativos, desarrollada con React y Node.js. Repositorio
+Billetstren - Plataforma de comercio electrónico con sistema de recomendación basado en inteligencia artificial, implementada con Django y PostgreSQL. Repositorio
+Experiencia laboral
+Empresa de mi padre - Desarrollador web junior, colaborando en el desarrollo de aplicaciones web y en la optimización de la experiencia del usuario.
+Educación
+Cheste- Estudiante de Desarrollo de Aplicaciones Web.
+GitHub Stats
+GitHub Stats
 
-[Chetse], Estudiante de Desarrollo de Aplicaciones Web (Fecha de inicio - Fecha de finalización)
-Hobbies e intereses:
+Contacto
+📧 Correo electrónico: thekaykser@gmail.com
+📞 Teléfono: Preguntar por correo
 
-Desarrollo de proyectos de código abierto
-Participación en hackathons y competencias de programación
-Blogging sobre tecnología y programación
-Senderismo y fotografía
-Editores de código y entornos de desarrollo:
-
+🔗 LinkedIn: linkedin.com/in/thekaykser
+Hobbies e intereses
+🌐 Desarrollo de proyectos de código abierto
+🏆 Participación en hackathons y competencias de programación
+📝 Blogging sobre tecnología y programación
+🏞️ Senderismo y fotografía
+Editores de código y entornos de desarrollo
 Visual Studio Code
 Sublime Text
 JetBrains WebStorm
 Atom
+Últimos proyectos
+Hospital
 
-Estadísticas en GitHub:
-
-Pocas pero honestas.
+💡 No dudes en visitar mi perfil de GitHub para ver más detalles sobre mis proyectos y contribuciones: github.com/Alliancekaykser
